@@ -2,7 +2,7 @@
 
 ## Status 🤞
 
-- 🌱 I’m currently learning Python🐍
+- 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Open source projects 
 - 🤔 I’m looking for help with JAVA 
 - 💬 Ask me about WEB DEVELOPMENT
