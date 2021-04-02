@@ -6,7 +6,8 @@
 - 👯 I’m looking to collaborate on Open source projects 
 - 🤔 I’m looking for help with JAVA 
 - 💬 Ask me about WEB DEVELOPMENT
-- 📫 How to reach me: [LinkedIn profile](https://www.linkedin.com/in/chindukuru-saisandeep-51b06a200)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chindukuru-saisandeep-51b06a200) ,[gmail](saisandeep1312@gmail.com) 
+-                    
 - 😄 Pronouns: HE/ HIM 
 
 <p align=center>
