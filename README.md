@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sai Sandeep Chindukuru 
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">, I am Sai Sandeep Chindukuru 
 
 
 ## Status 🤞
@@ -10,11 +10,11 @@
 - 😄 Pronouns: HE/ HIM  
 
 <p align=center>
-<img src = "https://github-readme-stats.vercel.app/api?username=sanshiv1312&show_icons=true&include_all_commits=true&theme=radical" width="90%"></img>
+<img src = "https://github-readme-stats.vercel.app/api?username=sanshiv1312&show_icons=true&include_all_commits=true&theme=radical" width="70%"></img>
 </p>
  
 <p align=center> 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sanshiv1312&layout=compact&theme=radical" width="75%"></img> 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sanshiv1312&layout=compact&theme=radical" width="60%"></img> 
 </p> 
 <h2 align="center"> You can reach out to me on <h2>  
  <p align="center">
