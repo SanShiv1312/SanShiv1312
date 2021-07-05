@@ -1,5 +1,5 @@
-<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">, I am Sai Sandeep Chindukuru </h1>
-<img src="https://i.pinimg.com/originals/0d/8e/02/0d8e0215230f829053d078247b5d5bec.jpg">
+<h1 align="center"> Hi folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">, I am Sai Sandeep Chindukuru </h1>
+<img src="https://i.pinimg.com/originals/aa/01/0b/aa010b178df62700d3a204323e86ba22.jpg">
 
 ## Status 🤞
 
@@ -16,6 +16,25 @@
 <p align=center> 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sanshiv1312&layout=compact&theme=radical" width="60%"></img> 
 </p> 
+
+
+## Technologies and Tools 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=00FFFF)
+![](https://img.shields.io/badge/Code-MySql-informational?style=flat&logo=MySql&logoColor=white&color=FFD700)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=Html&logoColor=white&color=0000CD)
+
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Css&logoColor=white&color=FF0000)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=00FFFF)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=DA70D6)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=87CEFA)
+
+
+
+<p align=center><img src="https://komarev.com/ghpvc/?username=SanShiv1312&color=000080&style=flat-square"></img></p>
+
+
+
 <h2 align="center"> You can reach out to me on <h2>  
  <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/sai-sandeep-chindukuru-51b06a200"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
