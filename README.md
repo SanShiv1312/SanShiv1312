@@ -1,4 +1,4 @@
-<h1 align="center"> Hi folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">, I am Sai Sandeep Chindukuru </h1>
+<h1 align="center"> Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">, I'm Sai Sandeep Chindukuru </h1>
 <img src="https://i.pinimg.com/originals/aa/01/0b/aa010b178df62700d3a204323e86ba22.jpg">
 
 ## Status 🤞
