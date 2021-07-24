@@ -25,7 +25,6 @@
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=Html&logoColor=white&color=0000CD)
 
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Css&logoColor=white&color=FF0000)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=00FFFF)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=DA70D6)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=87CEFA)
 
