@@ -28,8 +28,8 @@
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=DA70D6)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=87CEFA)
 
-
-
+<p align=center>
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=sanshiv1312" width="400px" align=center></img></p>
 <p align=center><img src="https://komarev.com/ghpvc/?username=SanShiv1312&color=000080&style=flat-square"></img></p>
 
 
