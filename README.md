@@ -1,6 +1,6 @@
 <h1 align="center"> Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">, I'm Sai Sandeep Chindukuru </h1>
 <p align=center>
-<img src="https://i.pinimg.com/originals/aa/01/0b/aa010b178df62700d3a204323e86ba22.jpg" width="650">
+<img src="https://www.wshu.org/sites/wshu/files/202010/pexels-photo-414102.jpeg" width="650">
  </p>
 
 ## Status 🤞
