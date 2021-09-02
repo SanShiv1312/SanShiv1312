@@ -1,7 +1,10 @@
 <h1 align="center"> Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">, I'm Sai Sandeep Chindukuru </h1>
 <p align=center>
 <img src="https://www.wshu.org/sites/wshu/files/202010/pexels-photo-414102.jpeg" width="650">
- </p>
+ </p> 
+ 
+## About me 
+I'm an U.G persuing Computer Science and Engineering from Sathyabama University. I'm a Leader of `NSS-SATHYABAMA`, Technical team member of `DSC-SATHYABAMA`, Executive member of `CodeChef-SIST` Chapter, Fellow Member at `EduAlgo`, IT intern from `YIF-OMR`, Student Ambassador of Sathyabama university. I love learning technical stuff and designing some posters and content part. I'm familiar with some part of Web-dev and was into DataScience from a while :) 
 
 ## Status 🤞
 
