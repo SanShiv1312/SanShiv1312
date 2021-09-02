@@ -5,7 +5,7 @@
 
 ## Status 🤞
 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning DataScience 
 - 👯 I’m looking to collaborate with Open source projects 
 - 🤔 I’m looking for help with JAVA 
 - 💬 Ask me about WEB DEVELOPMENT
