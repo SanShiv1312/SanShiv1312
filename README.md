@@ -37,7 +37,7 @@ I'm an U.G persuing Computer Science and Engineering from Sathyabama University.
 <p align=center><img src="https://github-readme-streak-stats.herokuapp.com/?user=SanShiv1312&color=000080&style=flat-square"></img></p>
 
 <p align=center>
-<img src = "https://github-readme-stats.vercel.app/api?username=sanshiv1312&show_icons=true&include_all_commits=true&theme=radical" width="70%"></img>
+<img src = "https://github-readme-stats.vercel.app/api?username=sanshiv1312&show_icons=true&include_all_commits=true&theme=radical" width="50%"></img>
 </p>
  
 <p align=center> 
