@@ -33,8 +33,9 @@ I'm an U.G persuing Computer Science and Engineering from Sathyabama University.
 
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Css&logoColor=white&color=FF0000)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=DA70D6)
-
-<p align=center><img src="https://github-readme-streak-stats.herokuapp.com/?user=SanShiv1312&color=000080&style=flat-square"></img></p>
+ 
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Manoj-Paramsetti" width="400px" align=center></img>
+<br>
 
 <p align=center>
 <img src = "https://github-readme-stats.vercel.app/api?username=sanshiv1312&show_icons=true&include_all_commits=true&theme=radical" width="60%"></img>
