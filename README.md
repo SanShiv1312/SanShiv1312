@@ -25,7 +25,7 @@ I'm an U.G persuing Computer Science and Engineering from Sathyabama University.
 </p>
 
 
-## Technologies and Tools 
+## Technologies and Tools 🛠
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=00FFFF)
 ![](https://img.shields.io/badge/Code-MySql-informational?style=flat&logo=MySql&logoColor=white&color=FFD700)
