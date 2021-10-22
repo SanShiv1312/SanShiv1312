@@ -6,14 +6,7 @@
  
 ## About me 
 I'm an U.G persuing Computer Science and Engineering from Sathyabama University. I'm a Leader of `NSS-SATHYABAMA`, Technical team member of `DSC-SATHYABAMA`, Executive member of `CodeChef-SIST` Chapter, Fellow Member at `EduAlgo`, IT head of `YIF-OMR`, Student Ambassador of Sathyabama university. I love learning technical stuff and designing some posters and content part. I'm familiar with some part of Web-dev and was into DataScience from a while :) 
-
-## Status 🤞
-
-- 🌱 I’m currently learning DataScience and ML
-- 👯 I’m looking to collaborate with Open source projects 
-- 🤔 I’m looking for help with JAVA 
-- 💬 Ask me about WEB DEVELOPMENT
-- 😄 Pronouns: HE/ HIM   
+ 
 
 
 <h2 align="center"> You can reach out to me on <h2>  
@@ -44,4 +37,27 @@ I'm an U.G persuing Computer Science and Engineering from Sathyabama University.
 <p align=center> 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sanshiv1312&layout=compact&theme=radical" width="60%"></img> 
 </p> 
+
+
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=f3b745)
+![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=f3b745)
+![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=f3b745)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f3b745)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=f3b745)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=f3b745)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=f3b745)
+
+
+<details>
+<summary>More about me</summary>
+<br>## Status 🤞
+
+- 🌱 I’m currently learning DataScience and ML
+- 👯 I’m looking to collaborate with Open source projects 
+- 🤔 I’m looking for help with JAVA 
+- 💬 Ask me about WEB DEVELOPMENT
+- 😄 Pronouns: HE/ HIM  
+.....
+</details>
 
