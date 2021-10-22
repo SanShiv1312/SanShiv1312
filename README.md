@@ -51,13 +51,13 @@ I'm an U.G persuing Computer Science and Engineering from Sathyabama University.
 
 <details>
 <summary>More about me</summary>
-<br>## Status 🤞
+<br>
 
 - 🌱 I’m currently learning DataScience and ML
 - 👯 I’m looking to collaborate with Open source projects 
 - 🤔 I’m looking for help with JAVA 
 - 💬 Ask me about WEB DEVELOPMENT
 - 😄 Pronouns: HE/ HIM  
-.....
+ 
 </details>
 
