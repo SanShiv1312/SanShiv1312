@@ -1,6 +1,6 @@
 <h1 align="center"> Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">, I'm Sai Sandeep Chindukuru </h1>
 <p align=center>
-<img src="https://www.wshu.org/sites/wshu/files/202010/pexels-photo-414102.jpeg" width="600">
+<img src="https://www.wshu.org/sites/wshu/files/202010/pexels-photo-414102.jpeg" width="650">
  <p align=center><img src="https://komarev.com/ghpvc/?username=SanShiv1312&color=006400&style=flat-square"></img></p>
  </p> 
  
@@ -30,7 +30,6 @@ I'm an U.G persuing Computer Science and Engineering from Sathyabama University.
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=00FFFF)
 ![](https://img.shields.io/badge/Code-MySql-informational?style=flat&logo=MySql&logoColor=white&color=FFD700)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=Html&logoColor=white&color=0000CD)
-
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Css&logoColor=white&color=FF0000)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=DA70D6)
  
