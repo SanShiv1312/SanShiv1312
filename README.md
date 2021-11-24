@@ -1,7 +1,7 @@
 <h1 align="center"> Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Sai Sandeep Chindukuru </h1>
 <p align=center>
 <img src="https://www.wshu.org/sites/wshu/files/202010/pexels-photo-414102.jpeg" width="600">
- <p align=center><img src="https://komarev.com/ghpvc/?username=SanShiv1312&color=006400&style=flat-square"></img></p>
+ <p align=center><img src="https://komarev.com/ghpvc/?username=SanShiv1312&color=4B0082&style=flat-square"></img></p>
  </p> 
  
 ## About me 
