@@ -1,6 +1,6 @@
 <h1 align="center"> Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Sai Sandeep Chindukuru </h1>
 <p align=center>
-<img src="https://www.wshu.org/sites/wshu/files/202010/pexels-photo-414102.jpeg" width="600">
+<img src="https://www.wshu.org/sites/wshu/files/202010/pexels-photo-414102.jpeg" width="800">
  <p align=center><img src="https://komarev.com/ghpvc/?username=SanShiv1312&color=C71585&style=flat-square"></img></p>
  </p> 
  
