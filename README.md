@@ -5,7 +5,7 @@
  </p> 
  
 ## About me 
-I'm an U.G persuing Computer Science and Engineering from **`Sathyabama University`**. I'm a Leader of `NSS-SATHYABAMA`, Executive member of `CodeChef-SIST` Chapter, Technical Member at `Google Developer Student Club` (S4), Fellow Member at `EduAlgo`, IT head of `Youth India Foundation-OMR`, Student Ambassador of Sathyabama university. I love learning technical stuff, designing some posters and making some creative content. I'm familiar with some part of Web-dev and was into DataScience from a while :) 
+I'm an **U.G** persuing Computer Science and Engineering from **`Sathyabama University`**. I'm a **Leader** of `NSS-SATHYABAMA`, **Executive member** of `CodeChef-SIST` Chapter, **Technical Member** at `Google Developer Student Club` (S4), **Fellow Member** at `EduAlgo`, **IT-head** of `Youth India Foundation-OMR`, **Student Ambassador** of Sathyabama university. I love learning technical stuff, designing some posters and making some creative content. I'm familiar with some part of Web-dev and was into DataScience from a while :) 
  
 
 
