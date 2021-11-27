@@ -27,15 +27,15 @@ I'm an **U.G** persuing Computer Science and Engineering from **`Sathyabama Univ
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=DA70D6)
  
 <p align=center> 
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=SanShiv1312" width="400px" align=center></img>
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=SanShiv1312" width="45%"></img>
 </p> 
 
 <p align=center>
-<img src = "https://github-readme-stats.vercel.app/api?username=sanshiv1312&show_icons=true&include_all_commits=true&theme=radical" width="40%"></img>
+<img src = "https://github-readme-stats.vercel.app/api?username=sanshiv1312&show_icons=true&include_all_commits=true&theme=radical" width="45%"></img>
 </p>
  
 <p align=center> 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sanshiv1312&layout=compact&theme=radical" width="40%"></img> 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sanshiv1312&layout=compact&theme=radical" width="45%"></img> 
 </p> 
 
 
