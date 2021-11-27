@@ -15,7 +15,7 @@ I'm an **U.G** persuing Computer Science and Engineering from **`Sathyabama Univ
   <a target="_blank"href="https://twitter.com/Sandeep75498905?s=09"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:saisandeep1312@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/yrs._.truly.__.san/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+</p> 
 
 
 ## Technologies and Tools 🛠
