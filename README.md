@@ -26,6 +26,8 @@ I'm an **U.G** persuing Computer Science and Engineering from **`Sathyabama Univ
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Css&logoColor=white&color=FF0000)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=DA70D6)
  
+ 
+## Github status 📊
 <p align=center> 
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=SanShiv1312" width="46%"></img>
 </p> 
