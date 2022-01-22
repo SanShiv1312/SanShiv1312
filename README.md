@@ -29,7 +29,7 @@ I'm an **U.G** persuing Computer Science and Engineering from **`Sathyabama Univ
  
 ## Github status 📊
 <p align=center> 
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=SanShiv1312" width="46%"></img>
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=SanShiv1312" width="60%"></img>
 </p> 
 
 <p align=center>
