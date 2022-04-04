@@ -48,7 +48,7 @@ I'm an **U.G** persuing Computer Science and Engineering from **`Sathyabama Univ
 - 🌱 I’m currently learning DataScience and ML
 - 👯 I’m looking to collaborate with Open source projects 
 - 🤔 I’m looking for help with JAVA 
-- 💬 Ask me about WEB DEVELOPMENT
+- 💬 Ask me about Py and UI 
 - 😄 Pronouns: HE/ HIM  
  
 </details>
