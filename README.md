@@ -19,13 +19,13 @@ I'm an **U.G** persuing Computer Science and Engineering from **`Sathyabama Univ
 
 
 ## Technologies and Tools 🛠
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=00FFFF)
-![](https://img.shields.io/badge/Code-MySql-informational?style=flat&logo=MySql&logoColor=white&color=FFD700)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=Html&logoColor=white&color=0000CD)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Css&logoColor=white&color=FF0000)
-![](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg width="40" height="40")
  
+ <p align="left"> 
+  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/> </a>
+  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="c" width="50" height="50"/> </a>
+  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
+  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="c" width="50" height="50"/> </a>
+
  
 ## Github status 📊
 <p align=center> 
