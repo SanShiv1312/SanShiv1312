@@ -24,7 +24,7 @@ I'm an **U.G** persuing Computer Science and Engineering from **`Sathyabama Univ
 ![](https://img.shields.io/badge/Code-MySql-informational?style=flat&logo=MySql&logoColor=white&color=FFD700)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=Html&logoColor=white&color=0000CD)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Css&logoColor=white&color=FF0000)
-![]"https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg")
+![](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
  
  
 ## Github status 📊
