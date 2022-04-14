@@ -31,7 +31,6 @@ I'm an **U.G** persuing Computer Science and Engineering from **`Sathyabama Univ
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="50" height="50"/> </a>
   <a> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/> </a>
 
-I
  
 ## Github status 📊
 <p align=center> 
