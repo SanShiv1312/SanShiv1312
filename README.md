@@ -45,6 +45,11 @@ I'm an **U.G** persuing Computer Science and Engineering from **`Sathyabama Univ
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sanshiv1312&layout=compact&theme=radical" width="60%"></img> 
 </p> 
 
+<details>
+   <summary>:chart_with_upwards_trend: Contribution Graph </summary>
+   <br/>
+   <a><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SanShiv1312&bg_color=1F222E&color=00FFFF&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</details>
 
 <details>
 <summary>More about me...</summary>
