@@ -45,6 +45,12 @@ I'm an **U.G** persuing Computer Science and Engineering from **`Sathyabama Univ
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sanshiv1312&layout=compact&theme=radical" width="60%"></img> 
 </p> 
 
+<!--Projects-->
+## List of my projects
+- [S-LEARN - Streamlit](https://github.com/SanShiv1312/S_LEARN)
+ 
+ 
+ 
 <details>
    <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
