@@ -46,7 +46,7 @@ I'm an **U.G** persuing Computer Science and Engineering from **`Sathyabama Univ
 </p> 
 
 <!--Projects-->
-## List of my projects
+## List of my projects 🧑🏻‍💻
 - [S-LEARN - Streamlit](https://github.com/SanShiv1312/S_LEARN)
  
  
